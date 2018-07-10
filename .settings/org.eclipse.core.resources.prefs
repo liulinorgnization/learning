@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/java/org/aliyun/lg/net/demo3/Test.java=utf-8
+encoding//src/main/java/org/aliyun/lg/websocket/SendMsgServlet.java=UTF-8
+encoding//src/main/java/org/aliyun/lg/websocket/WebSocketNotice.java=GBK
+encoding//src/main/java/org/aliyun/lg/websocket/WebSocketTest.java=utf-8
+encoding//src/main/resources=UTF-8
+encoding//src/test/java=UTF-8
+encoding/<project>=UTF-8
+separateDerivedEncodings=true
